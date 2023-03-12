@@ -374,6 +374,7 @@ body {
 
 .customer-soc-link:is(:hover, :focus) {
   border-color: var(--focus-nav-color);
+  outline: none;
 }
 .customer-soc-icon {
   fill: #8e8f99;
